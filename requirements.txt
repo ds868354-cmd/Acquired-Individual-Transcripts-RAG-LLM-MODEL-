@@ -1,0 +1,9 @@
+fastapi
+starlette==1.1.0
+uvicorn[standard]==0.30.6
+numpy==1.26.4
+pydantic==2.9.2
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.4.1
+transformers==4.44.2
+sentence-transformers==3.0.1

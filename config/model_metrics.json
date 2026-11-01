@@ -1,0 +1,10 @@
+{
+  "best_model_name": null,
+  "metrics": {
+    "num_chunks": 5608.0
+  },
+  "model_type": "RAG_LLM",
+  "n_test": null,
+  "schema": 1,
+  "task": null
+}
